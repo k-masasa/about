@@ -21,6 +21,8 @@
 
 #### 主要言語
 
+- HTML
+- CSS
 - JavaScript
   - TypeScript
   - Vue.js
