@@ -37,9 +37,6 @@
   - CakePHP
 - Python
   - FastAPI
-- SQL
-  - MySQL
-  - PostgreSQL
 
 ### # 開発スタイル
 
