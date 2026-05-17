@@ -37,6 +37,9 @@
   - CakePHP
 - Python
   - FastAPI
+- SQL
+  - MySQL
+  - PostgreSQL
 
 #### Claude Code の使い方
 
