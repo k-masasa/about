@@ -18,6 +18,8 @@
 | 2019-02 ~ 2019-07 | コールセンター |
 | 2019-08 ~ | Web アプリケーションエンジニア |
 
+エンジニアとしての経歴は[こちら](https://app.notion.com/p/mkwebappdev/35cb33dafbdf47de89dafce08184e5af?source=copy_link)。
+
 ### # 技術スタック
 
 #### 主要言語
